@@ -10,8 +10,8 @@ Este repositorio contiene los programas y modelos de simulación utilizados
 en el diseño, implementación y validación de un controlador de voltaje para 
 una microrred de corriente continua (MGDC) basado en aprendizaje por refuerzo.
 
-La microrred está compuesta por múltiples convertidores DC-DC tipo boost 
-conectados en paralelo, con una arquitectura de control jerárquico de dos niveles:
+La microrred está compuesta por múltiples convertidores DC-DC conectados en paralelo, 
+con una arquitectura de control jerárquico de dos niveles:
 
 - **Control Primario:** Droop control para reparto de potencia entre convertidores 
   sin comunicación directa.
